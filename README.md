@@ -1,4 +1,4 @@
-# NodeJS + Express + Sequelize (Mysql)
+# Back End >> NodeJS + Express + Sequelize (Mysql)
 
 ## Basic install
 
